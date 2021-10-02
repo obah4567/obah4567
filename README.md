@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @obah4567
+- 👋 Hi, I’m Ousmane BAH - @obah4567
 - 👀 I’m interested in Computer Sciences
 - 🌱 I’m currently learning Internet Networks and Communications
 <!---
