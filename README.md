@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Ousmane BAH - @obah4567
 - 👀 I’m interested in Computer Sciences
-- 🌱 I’m currently learning Internet Networks and Communications
+- 🌱 Full-stack developer with backend expertise in C#/.Net and frontend skills in React.
+  I'm also interested in DevOps in order to optimize development processes such as continuous improvement continuous integration and deployment, as well as real-time monitoring and feedback.
+  
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
